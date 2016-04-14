@@ -1,6 +1,10 @@
 # avr-study-projects
 Some projects on AVR for study purpose
 
+## Prerequisite
+- avrdude v6.1
+- avr-gcc v4.8.1
+
 ## Getting started
 ```bash
 # compile the project

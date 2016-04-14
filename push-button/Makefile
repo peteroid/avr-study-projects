@@ -1,5 +1,5 @@
 # Name: Makefile
-# Author: Kin Fai Chow
+# Author: PETEroid
 # This file is generated from `avr-project` command
 
 DEVICE     = atmega32
