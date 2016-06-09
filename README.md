@@ -31,8 +31,17 @@ make clean
 - compile with [avr-datetime](https://github.com/peteroid/avr-datetime)
 
 ### Simple Music Player
-- simple music player based on interrupt generating PWM
+- simple music player based on interrupt, PWM
 - volumn, tempo control
 - LCD character customization
 
-### Voltage Meter (todo)
+### Voltage Meter
+- voltmeter based on the built-in ADC
+- range from 0v to 5v
+- don't test over 5v
+- show the current, average, maximum and minimum
+
+### Wireless Speedometer (self-propose)
+- interfaced the bluetooth module with onboard usart
+- maganetic sensor
+- great for mobile app integration
